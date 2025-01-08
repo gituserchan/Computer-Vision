@@ -1,0 +1,23 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.swp
+*.bak
+*.idb
+*.log
+*.apk
+*.app
+*.ipa
+*.unitypackage
+
