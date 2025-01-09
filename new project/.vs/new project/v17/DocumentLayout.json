@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Kim Ye Eun\\Desktop\\Computer-Vision\\Computer-Vision\\new project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F919EB7-4144-1C6C-9495-72D9E34E5B20}|Assembly-CSharp.csproj|c:\\users\\kim ye eun\\desktop\\computer-vision\\computer-vision\\new project\\assets\\flipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F919EB7-4144-1C6C-9495-72D9E34E5B20}|Assembly-CSharp.csproj|solutionrelative:assets\\flipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7F919EB7-4144-1C6C-9495-72D9E34E5B20}|Assembly-CSharp.csproj|C:\\Users\\Kim Ye Eun\\Desktop\\Computer-Vision\\Computer-Vision\\new project\\assets\\throwcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F919EB7-4144-1C6C-9495-72D9E34E5B20}|Assembly-CSharp.csproj|solutionrelative:assets\\throwcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,27 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FlipController.cs",
-              "DocumentMoniker": "C:\\Users\\Kim Ye Eun\\Desktop\\Computer-Vision\\Computer-Vision\\new project\\Assets\\FlipController.cs",
-              "RelativeDocumentMoniker": "Assets\\FlipController.cs",
-              "ToolTip": "C:\\Users\\Kim Ye Eun\\Desktop\\Computer-Vision\\Computer-Vision\\new project\\Assets\\FlipController.cs",
-              "RelativeToolTip": "Assets\\FlipController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T04:31:49.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "ThrowController.cs",
               "DocumentMoniker": "C:\\Users\\Kim Ye Eun\\Desktop\\Computer-Vision\\Computer-Vision\\new project\\Assets\\ThrowController.cs",
               "RelativeDocumentMoniker": "Assets\\ThrowController.cs",
               "ToolTip": "C:\\Users\\Kim Ye Eun\\Desktop\\Computer-Vision\\Computer-Vision\\new project\\Assets\\ThrowController.cs",
               "RelativeToolTip": "Assets\\ThrowController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T04:25:58.705Z"
+              "WhenOpened": "2025-01-09T04:25:58.705Z",
+              "EditorCaption": ""
             }
           ]
         }

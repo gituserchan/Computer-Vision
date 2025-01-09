@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Kim Ye Eun\\Desktop\\Computer-Vision\\Computer-Vision\\new project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F919EB7-4144-1C6C-9495-72D9E34E5B20}|Assembly-CSharp.csproj|c:\\users\\kim ye eun\\desktop\\computer-vision\\computer-vision\\new project\\assets\\flipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F919EB7-4144-1C6C-9495-72D9E34E5B20}|Assembly-CSharp.csproj|solutionrelative:assets\\flipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F919EB7-4144-1C6C-9495-72D9E34E5B20}|Assembly-CSharp.csproj|c:\\users\\kim ye eun\\desktop\\computer-vision\\computer-vision\\new project\\assets\\cubefaceshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7F919EB7-4144-1C6C-9495-72D9E34E5B20}|Assembly-CSharp.csproj|solutionrelative:assets\\cubefaceshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F919EB7-4144-1C6C-9495-72D9E34E5B20}|Assembly-CSharp.csproj|c:\\users\\kim ye eun\\desktop\\computer-vision\\computer-vision\\new project\\assets\\throwcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F919EB7-4144-1C6C-9495-72D9E34E5B20}|Assembly-CSharp.csproj|C:\\Users\\Kim Ye Eun\\Desktop\\Computer-Vision\\Computer-Vision\\new project\\assets\\throwcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F919EB7-4144-1C6C-9495-72D9E34E5B20}|Assembly-CSharp.csproj|solutionrelative:assets\\throwcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F919EB7-4144-1C6C-9495-72D9E34E5B20}|Assembly-CSharp.csproj|c:\\users\\kim ye eun\\desktop\\computer-vision\\computer-vision\\new project\\assets\\stylized_astronaut\\character\\astronautthirdpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F919EB7-4144-1C6C-9495-72D9E34E5B20}|Assembly-CSharp.csproj|solutionrelative:assets\\stylized_astronaut\\character\\astronautthirdpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F919EB7-4144-1C6C-9495-72D9E34E5B20}|Assembly-CSharp.csproj|c:\\users\\kim ye eun\\desktop\\computer-vision\\computer-vision\\new project\\assets\\stylized_astronaut\\character\\astronautplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F919EB7-4144-1C6C-9495-72D9E34E5B20}|Assembly-CSharp.csproj|solutionrelative:assets\\stylized_astronaut\\character\\astronautplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F919EB7-4144-1C6C-9495-72D9E34E5B20}|Assembly-CSharp.csproj|c:\\users\\kim ye eun\\desktop\\computer-vision\\computer-vision\\new project\\assets\\flipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F919EB7-4144-1C6C-9495-72D9E34E5B20}|Assembly-CSharp.csproj|solutionrelative:assets\\flipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CubeFaceShader.shader",
+              "DocumentMoniker": "C:\\Users\\Kim Ye Eun\\Desktop\\Computer-Vision\\Computer-Vision\\new project\\Assets\\CubeFaceShader.shader",
+              "RelativeDocumentMoniker": "Assets\\CubeFaceShader.shader",
+              "ToolTip": "C:\\Users\\Kim Ye Eun\\Desktop\\Computer-Vision\\Computer-Vision\\new project\\Assets\\CubeFaceShader.shader",
+              "RelativeToolTip": "Assets\\CubeFaceShader.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-01-09T10:19:47.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AstronautThirdPersonCamera.cs",
+              "DocumentMoniker": "C:\\Users\\Kim Ye Eun\\Desktop\\Computer-Vision\\Computer-Vision\\new project\\Assets\\Stylized_Astronaut\\Character\\AstronautThirdPersonCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Stylized_Astronaut\\Character\\AstronautThirdPersonCamera.cs",
+              "ToolTip": "C:\\Users\\Kim Ye Eun\\Desktop\\Computer-Vision\\Computer-Vision\\new project\\Assets\\Stylized_Astronaut\\Character\\AstronautThirdPersonCamera.cs",
+              "RelativeToolTip": "Assets\\Stylized_Astronaut\\Character\\AstronautThirdPersonCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:14:38.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AstronautPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Kim Ye Eun\\Desktop\\Computer-Vision\\Computer-Vision\\new project\\Assets\\Stylized_Astronaut\\Character\\AstronautPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Stylized_Astronaut\\Character\\AstronautPlayer.cs",
+              "ToolTip": "C:\\Users\\Kim Ye Eun\\Desktop\\Computer-Vision\\Computer-Vision\\new project\\Assets\\Stylized_Astronaut\\Character\\AstronautPlayer.cs",
+              "RelativeToolTip": "Assets\\Stylized_Astronaut\\Character\\AstronautPlayer.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:42:11.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "FlipController.cs",
               "DocumentMoniker": "C:\\Users\\Kim Ye Eun\\Desktop\\Computer-Vision\\Computer-Vision\\new project\\Assets\\FlipController.cs",
               "RelativeDocumentMoniker": "Assets\\FlipController.cs",
@@ -41,7 +92,7 @@
               "RelativeDocumentMoniker": "Assets\\ThrowController.cs",
               "ToolTip": "C:\\Users\\Kim Ye Eun\\Desktop\\Computer-Vision\\Computer-Vision\\new project\\Assets\\ThrowController.cs",
               "RelativeToolTip": "Assets\\ThrowController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T04:25:58.705Z",
               "EditorCaption": ""
